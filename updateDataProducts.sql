@@ -1,0 +1,1 @@
+UPDATE Products SET price = 1300.00 WHERE product_id = 1;
